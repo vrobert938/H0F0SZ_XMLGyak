@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE orarend SYSTEM ".\VR_orarend.dtd">
+
+<orarend>
+	<ora id="X1" tipus="Előadás/Gyakorlat">
+		<targy>Adatkezelés XML-ben >GEIAL332-BL</targy>
+        <idopont>
+            <nap>2022.09.23</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+		<helyszin>INF/101</helyszin>
+		<oktato>Dr. Bednarik László</oktato>
+		<szak>Mérnökinformatikus</szak>
+	</ora>
+    <ora id="J1" tipus="jelenleti">
+        <targy>Web-es alkalmazások (JAVA)</targy>
+        <idopont>
+            <nap>2022.09.23</nap>
+            <tol>16:00</tol>
+            <ig>19:30</ig>
+        </idopont>
+        <helyszin>In/103</helyszin>
+        <oktato>Kunné Dr. Tamás Judit</oktato>
+        <szak>Mérnökinformatikus BSc</szak>
+    </ora>
+    <ora id="J2" tipus="jelenleti">
+        <targy>Web-es alkalmazások (JAVA)</targy>
+        <idopont>
+            <nap>2022.09.24</nap>
+            <tol>8:30</tol>
+            <ig>11:50</ig>
+        </idopont>
+        <helyszin>In/103</helyszin>
+        <oktato>Kunné Dr. Tamás Judit</oktato>
+        <szak>Mérnökinformatikus BSc</szak>
+    </ora>
+    <ora id="J3" tipus="jelenleti">
+        <targy>Web-es alkalmazások (JAVA)</targy>
+        <idopont>
+            <nap>2022.09.24</nap>
+            <tol>12:20</tol>
+            <ig>15:40</ig>
+        </idopont>
+        <helyszin>In/103</helyszin>
+        <oktato>Kunné Dr. Tamás Judit</oktato>
+        <szak>Mérnökinformatikus BSc</szak>
+    </ora>
+    <ora id="J4" tipus="jelenleti">
+        <targy>Web-es alkalmazások (JAVA)</targy>
+        <idopont>
+            <nap>2022.09.24</nap>
+            <tol>16:00</tol>
+            <ig>19:20</ig>
+        </idopont>
+        <helyszin>In/103</helyszin>
+        <oktato>Kunné Dr. Tamás Judit</oktato>
+        <szak>Mérnökinformatikus BSc</szak>
+    </ora>
+    <ora id="X2" tipus="Előadás/Gyakorlat">
+		<targy>Adatkezelés XML-ben >GEIAL332-BL</targy>
+        <idopont>
+            <nap>2022.10.07</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+		<helyszin>INF/101</helyszin>
+		<oktato>Dr. Bednarik László</oktato>
+		<szak>Mérnökinformatikus</szak>
+	</ora>
+    <ora id="X3" tipus="Előadás/Gyakorlat">
+		<targy>Adatkezelés XML-ben >GEIAL332-BL</targy>
+        <idopont>
+            <nap>2022.10.21</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+		<helyszin>INF/101</helyszin>
+		<oktato>Dr. Bednarik László</oktato>
+		<szak>Mérnökinformatikus</szak>
+	</ora>
+    <ora id="X4" tipus="Előadás/Gyakorlat">
+		<targy>Adatkezelés XML-ben >GEIAL332-BL</targy>
+        <idopont>
+            <nap>2022.11.18</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+		<helyszin>INF/101</helyszin>
+		<oktato>Dr. Bednarik László</oktato>
+		<szak>Mérnökinformatikus</szak>
+	</ora>
+	<ora id="K5" tipus="">
+        <targy>Készítette:Vékony Róbert (H0F0SZ)</targy>
+        <idopont>
+            <nap>Csütörtök</nap>
+            <tol>19:00</tol>
+            <ig>23:59</ig>
+        </idopont>
+        <helyszin>XXXII</helyszin>
+        <oktato>Dr. Glavosits Tamás</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+</orarend>

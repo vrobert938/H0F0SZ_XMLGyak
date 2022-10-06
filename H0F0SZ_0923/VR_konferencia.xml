@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<konferencia>
+    <cim>Miskolci Egyetem XXXII. eloado</cim>
+    <hallgatok>
+        <hallgato id="111">
+            <nev>Kovács Béla</nev>
+            <lakcim>Kazincbarcika Jószerencsét út 35.</lakcim>
+        </hallgato>
+        <hallgato id="112">
+            <nev>Horváth Gizella</nev>
+            <lakcim>Miskolc Eper utca 3.</lakcim>
+        </hallgato>
+    </hallgatok>
+    <helyszin>Miskolc Egyetemváros</helyszin>
+    <eloado id="124">
+        <nev>Eloado János</nev>
+        <adoszam>12345678</adoszam>
+        <lakcim>Kistarcsa Ady Endre út 42.</lakcim>
+    </eloado>
+    <datum>2022-10-06 12:00:00</datum>
+</konferencia>
