@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="VR_nevjegykartya.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+<nevjegykartyak>
+    <nevjegykartya id="nevjkar_01">
+        <nev>Tony Stark</nev>
+        <ceg>
+            <cim>
+                <iranyitoszam>9031</iranyitoszam>
+                <varos>Malibu</varos>
+                <utca>Malibu Point</utca>
+                <hazszam>35</hazszam>
+            </cim>
+            <nev>Stark Industries Co.</nev>
+            <telefonszam korzet="46">6558974</telefonszam>
+            <weblap>https://en.wikipedia.org/wiki/Stark_Industries</weblap>
+        </ceg>
+        <beosztas>CEO</beosztas>
+        <telefonszam korzet="47">5484649</telefonszam>
+        <email>iamironman@starkindustries.com</email>
+    </nevjegykartya>
+</nevjegykartyak>
